@@ -1,0 +1,9 @@
+{
+  "inputs": [],
+  "servers": {
+    "figmaRemoteMcp": {
+      "type": "http",
+      "url": "https://mcp.figma.com/mcp"
+    }
+  }
+}

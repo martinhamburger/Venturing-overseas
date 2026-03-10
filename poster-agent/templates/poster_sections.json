@@ -1,0 +1,97 @@
+{
+  "topic": "贸易战2.0背景下中国企业出海的应对策略研究",
+  "default_template_mode": "a1_portrait_better_poster",
+  "sections": [
+    {
+      "id": "title",
+      "label": "标题",
+      "priority": 1,
+      "max_words_zh": 24,
+      "required": true
+    },
+    {
+      "id": "authors",
+      "label": "作者",
+      "priority": 2,
+      "max_words_zh": 30,
+      "required": true
+    },
+    {
+      "id": "affiliation",
+      "label": "单位",
+      "priority": 2,
+      "max_words_zh": 20,
+      "required": true
+    },
+    {
+      "id": "takeaway",
+      "label": "核心结论",
+      "priority": 1,
+      "max_words_zh": 60,
+      "required": true
+    },
+    {
+      "id": "key_stats",
+      "label": "关键数字",
+      "priority": 1,
+      "max_words_zh": 48,
+      "required": true
+    },
+    {
+      "id": "background",
+      "label": "研究框架",
+      "priority": 3,
+      "max_words_zh": 120,
+      "required": true
+    },
+    {
+      "id": "japan_patterns",
+      "label": "日本经验",
+      "priority": 2,
+      "max_words_zh": 180,
+      "required": true
+    },
+    {
+      "id": "industry_matrix",
+      "label": "行业实证",
+      "priority": 2,
+      "max_words_zh": 240,
+      "required": true
+    },
+    {
+      "id": "cross_case_findings",
+      "label": "共通趋势",
+      "priority": 2,
+      "max_words_zh": 160,
+      "required": true
+    },
+    {
+      "id": "enterprise_strategy",
+      "label": "企业建议",
+      "priority": 2,
+      "max_words_zh": 140,
+      "required": true
+    },
+    {
+      "id": "government_strategy",
+      "label": "政府建议",
+      "priority": 1,
+      "max_words_zh": 120,
+      "required": true
+    },
+    {
+      "id": "references",
+      "label": "参考来源",
+      "priority": 4,
+      "max_words_zh": 90,
+      "required": false
+    },
+    {
+      "id": "contact",
+      "label": "联系信息",
+      "priority": 4,
+      "max_words_zh": 40,
+      "required": false
+    }
+  ]
+}

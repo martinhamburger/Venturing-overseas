@@ -1,0 +1,44 @@
+{
+  "presets": [
+    {
+      "id": "a1_portrait_better_poster",
+      "paper": "A1",
+      "orientation": "portrait",
+      "grid": "3-column",
+      "use_case": "fixed figma template filling",
+      "hero_focus": "takeaway",
+      "section_order": [
+        "title",
+        "authors",
+        "affiliation",
+        "takeaway",
+        "key_stats",
+        "modes",
+        "case_study",
+        "regional_strategy",
+        "recommendations",
+        "references",
+        "contact"
+      ]
+    },
+    {
+      "id": "html_capture_dashboard",
+      "paper": "custom",
+      "orientation": "portrait-scroll",
+      "grid": "12-column",
+      "use_case": "local html prototype captured into figma",
+      "hero_focus": "title_and_summary",
+      "section_order": [
+        "title",
+        "takeaway",
+        "key_stats",
+        "background",
+        "modes",
+        "case_study",
+        "regional_strategy",
+        "recommendations",
+        "references"
+      ]
+    }
+  ]
+}
