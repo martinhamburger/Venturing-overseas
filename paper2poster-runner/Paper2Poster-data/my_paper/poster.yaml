@@ -1,0 +1,16 @@
+# Per-paper style override for Paper2Poster
+# This file lives next to paper.pdf and overrides upstream defaults.
+
+poster_title_font_size: 92
+poster_author_font_size: 46
+section_title_font_size: 78
+main_text_font_size: 54
+
+title_text_color: [24, 37, 45]
+title_fill_color: null
+main_text_color: [54, 79, 107]
+main_text_fill_color: null
+
+section_title_vertical_align: "bottom"
+section_title_symbol: "■"
+

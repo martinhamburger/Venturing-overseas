@@ -39,6 +39,9 @@
 
 - 使用远程 MCP
 - 用 `generate_figma_design` 导入本地页面
+- 本地页面入口：`http://127.0.0.1:4173/poster/`
+- 当前建议页面名：`Poster`
+- 当前建议主 frame：`PV-Poster-A1-v1`
 - 导入后保留当前版为 `v1`，不要覆盖
 
 ### 如果基于已有 Figma 模板

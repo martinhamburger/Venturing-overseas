@@ -1,0 +1,15 @@
+﻿.env
+.docker-config/
+Paper2Poster/
+Paper2Poster-main/
+Paper2Poster-main.zip
+upstream-README.md
+upstream-requirements.txt
+upstream-Dockerfile
+upstream-poster.yaml
+outputs/**
+!outputs/.gitkeep
+!outputs/final/
+!outputs/final/.gitkeep
+versions/**/output/**
+versions/**/artifacts/**

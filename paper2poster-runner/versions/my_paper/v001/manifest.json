@@ -1,0 +1,40 @@
+﻿{
+    "version_id":  "v001",
+    "version_label":  "",
+    "paper_folder":  "my_paper",
+    "engine":  "docker",
+    "text_model":  "4o",
+    "vision_model":  "4o",
+    "model_tag":  "4o_4o",
+    "poster_width_inches":  48,
+    "poster_height_inches":  36,
+    "conference_venue":  "",
+    "no_blank_detection":  false,
+    "status":  "failed",
+    "stage":  "error",
+    "started_at":  "2026-03-10T15:25:26.8998764+08:00",
+    "updated_at":  "2026-03-10T15:25:27.4716926+08:00",
+    "input":  {
+                  "paper_pdf":  {
+                                    "path":  "D:\\复旦大学\\大二上\\思政课题\\paper2poster-runner\\Paper2Poster-data\\my_paper\\paper.pdf",
+                                    "exists":  false,
+                                    "sha256":  null,
+                                    "size_bytes":  null
+                                },
+                  "poster_yaml":  {
+                                      "path":  "D:\\复旦大学\\大二上\\思政课题\\paper2poster-runner\\Paper2Poster-data\\my_paper\\poster.yaml",
+                                      "exists":  true,
+                                      "sha256":  "D5C0C51B297DDC617B59ABC770CACAC6127312359B02CEE4BC9615D1EF0A91B4",
+                                      "size_bytes":  403
+                                  }
+              },
+    "files":  {
+                  "manifest":  "D:\\复旦大学\\大二上\\思政课题\\paper2poster-runner\\versions\\my_paper\\v001\\manifest.json",
+                  "notes":  "D:\\复旦大学\\大二上\\思政课题\\paper2poster-runner\\versions\\my_paper\\v001\\notes.md",
+                  "command":  "D:\\复旦大学\\大二上\\思政课题\\paper2poster-runner\\versions\\my_paper\\v001\\command.txt",
+                  "run_log":  "D:\\复旦大学\\大二上\\思政课题\\paper2poster-runner\\versions\\my_paper\\v001\\artifacts\\run.log",
+                  "version_output_pptx":  null,
+                  "final_output_pptx":  null
+              },
+    "error_message":  "Docker is not installed or not on PATH. Install Docker Desktop first, then rerun this script."
+}
