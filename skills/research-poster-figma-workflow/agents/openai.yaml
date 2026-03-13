@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Poster Workflow"
+  short_description: "Build research posters with HTML/CSS and Figma."
+  default_prompt: "Use $research-poster-figma-workflow to turn my source files and poster requirements into a concise poster draft and optional Figma handoff."
